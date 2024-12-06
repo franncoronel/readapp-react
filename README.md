@@ -7,6 +7,7 @@ Este proyecto es una pequeña aplicación web de _back-office_ para ReadApp, una
 ## Vistas
 #### Login
 El login es muy sencillo: recibe los datos de un usuario, valida los campos y el botón **Ingresar** dispara la autenticación. Este proceso verifica que el usuario exista en el back-end y que tenga los permisos requeridos.
+
 ![login-fallido](videos/login-fallido.gif)
 [Login fallido por permisos denegados](videos/login-fallido-permisos.gif)
 #### Home
