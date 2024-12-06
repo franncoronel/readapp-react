@@ -30,7 +30,7 @@ Estos procesos de administración requieren validaciones complejas en el backend
 ![vista-autores](videos/vista-autores.png)
 
 En la sección de autores se pueden visualizar a todos los autores que forman parte de la base de datos de la aplicación. Aquí el usuario puede:
-- Buscar autores
+- [Buscar autores](videos/buscar-autores.gif)
 - [Editar los datos de un autor](videos/editar-autor-exito.gif)
 - [Agregar un nuevo autor a la base de datos](videos/crear-autor-exitoso.gif)
 - [Eliminar a un autor siempre y cuando estén dadas las condiciones para hacerlo.](videos/borrar-autores-exito-y-falla.gif)
